@@ -2,4 +2,6 @@
 print("welcome to ALL")
 x=10
 y=20
-print(x,y)
+print("First value %d second value %d"%(x,y))
+z=x+y
+print("Sum of numbers %d"%(z))
