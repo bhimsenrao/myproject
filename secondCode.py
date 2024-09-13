@@ -1,8 +1,8 @@
 # second program 
 print("This code will show ID, type of data")
 
-x=100
-y=10
+x=1
+y=101
 print(id(x))
 print(type(x))
 print("Value ",x)
